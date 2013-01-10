@@ -1,0 +1,7 @@
+parameters:
+#    zmbdkquery.example.class: zmb\dkqueryBundle\Example
+
+services:
+#    zmbdkquery.example:
+#        class: %zmbdkquery.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
